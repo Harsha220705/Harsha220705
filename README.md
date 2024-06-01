@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Harsha220705
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m currently learning Backend 
 - 📫 How to reach me harsha22705@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Addicted to coding
 
 <!---
