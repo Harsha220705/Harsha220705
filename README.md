@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Harsha220705
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning Backend 
 - 📫 How to reach me harsha22705@gmail.com
 - ⚡ Fun fact: Addicted to coding
 
